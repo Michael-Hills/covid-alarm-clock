@@ -1,0 +1,16 @@
+{
+
+"keys":{
+  "news-API-key" : "",
+  "weather-API-key" : ""
+  },
+"filters":{
+    "location" : "Exeter",
+    "News Filters": "Covid,Corrona,virus,Brexit,vaccine,Johnson,football,I'm a Celeb,Exeter"
+  },
+
+"covid-api":{
+  "filters" : ["areaName=Exeter"],
+  "thresholds": "50"
+}
+}
